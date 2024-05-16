@@ -14,7 +14,6 @@
 "D1, ","1","LED","LED","LED_SMD:LED_0603_1608Metric","Light emitting diode",""
 "D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D30, D31, D32, D33, D34, D35, D36, D37, D38, D39, D40, D41, D42, D43, D44, D45, D46, D47, D48, D49, D50, D51, D52, D53, D54, D55, D56, D57, D58, D59, D60, D61, D62, D63, D64, D65, D66, D67, D68, D69, D70, D71, D72, D73, D74, D75, D76, D77, D78, D79, D80, D81, D82, D83, D84, D85, D86, D87, D88, D89, D90, D91, D92, D93, D94, D95, D96, D97, D98, D99, D100, D101, D102, D103, D104, D105, D106, D107, D108, D109, D110, D111, ","110","SK6805","SK6805","LED_SMD:LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm","RGB LED with integrated controller",""
 "FB1, ","1","120R","Ferrite_Bead","Inductor_SMD:L_0603_1608Metric","Ferrite bead",""
-"H1, H2, H3, H4, ","4","MountingHole","MountingHole","MountingHole:MountingHole_3.2mm_M3","Mounting Hole without connection",""
 "J1, J2, ","2","Conn_01x04_Male","Conn_01x04_Male","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",""
 "J3, ","1","USB_B_Micro","USB_B_Micro","Connector_USB:USB_Micro-B_Wuerth_629105150521","USB Micro Type B connector",""
 "J4, ","1","Conn_01x04_Male","Conn_01x04_Male","Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Horizontal","Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",""
