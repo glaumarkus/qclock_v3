@@ -236,6 +236,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3b578390-a8da-40e2-916f-120964e5f1f5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/2780a57b-ea75-4b2b-bec3-19c596ff2da2")
 		(sheetname "Root")
@@ -343,6 +356,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1fd2f5e7-ae46-4205-af77-37f5bfc67de7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -620,6 +646,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1451f578-8d1b-4c56-ae2e-28524a91d31a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-000066472f29")
 		(sheetname "Root")
@@ -784,7 +823,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 0 1.16 270)
+			(at 0 1.16 -90)
 			(layer "F.Fab")
 			(uuid "c192ed6b-1462-49f9-9957-05289de57b8f")
 			(effects
@@ -827,6 +866,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d7b57ee7-a25c-4c45-9983-89985e3d3a48")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -936,7 +988,7 @@
 			(uuid "17d3d2a4-5660-4dbf-a554-b449e56e0252")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "54016279-8e34-4c67-a152-1cae5fac492e")
 			(effects
@@ -994,7 +1046,7 @@
 			)
 		)
 		(property "Value" "1k5"
-			(at 0 1.17 270)
+			(at 0 1.17 -90)
 			(layer "F.Fab")
 			(uuid "c8ffdaa8-d62b-4f6a-8d87-c3b6ba8683d3")
 			(effects
@@ -1037,6 +1089,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c5021705-b50f-4e6a-bf61-b42cccc5cfdf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1146,7 +1211,7 @@
 			(uuid "49323eeb-e49b-4ce5-9de3-d9ef48874a04")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "4d0573cc-d37c-47fc-8e4d-1e24d3f82374")
 			(effects
@@ -1247,6 +1312,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1790c0df-26fa-488e-a724-846dd5e28624")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1414,7 +1492,7 @@
 			)
 		)
 		(property "Value" "10p"
-			(at 0 1.16 270)
+			(at 0 1.16 -90)
 			(layer "F.Fab")
 			(uuid "3d65c166-8a2e-4e69-8ab3-7d98866ad0c3")
 			(effects
@@ -1457,6 +1535,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8167b82f-e2d3-4056-ab32-d12e863b7c06")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1566,7 +1657,7 @@
 			(uuid "00a8c37f-748e-44c3-a53f-37f72de54fca")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "c3f98043-3d14-4043-be54-1f1e4f53c5fa")
 			(effects
@@ -1624,7 +1715,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 0 1.17 270)
+			(at 0 1.17 -90)
 			(layer "F.Fab")
 			(uuid "5b47c947-9890-4e90-989d-379172093d68")
 			(effects
@@ -1667,6 +1758,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e8281555-c8a6-4b74-8194-be219c13f140")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1776,7 +1880,7 @@
 			(uuid "699386d2-f6d9-44b7-9e76-ba1c70cad4a7")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "3c590a9c-7011-4454-b5f7-ecfbb2ae2fb7")
 			(effects
@@ -1877,6 +1981,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "90e967bb-5ccb-43f4-887a-921f87b8fa6f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2087,6 +2204,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "348ab094-3026-442a-8cb8-482e3e63db25")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2538,8 +2668,8 @@
 		(at 145.5 72.25 -90)
 		(descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x04 2.54mm single row")
-		(property "Reference" "UART"
-			(at 2.25 4 180)
+		(property "Reference" "J1"
+			(at 2.25 1.5 180)
 			(layer "F.SilkS")
 			(uuid "d93c7ca3-6d7d-4fe1-a25b-21fd1884b737")
 			(effects
@@ -2593,6 +2723,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7b541341-8625-4262-82c5-4e7a6c55f7d2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2879,6 +3022,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "91fbd9dd-881f-43a7-a4bf-8890737000af")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3836,6 +3992,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "86bd6dbb-635f-49bc-a36d-fdc7ea683975")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-000066446196")
 		(sheetname "Root")
@@ -4046,6 +4215,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "28308f2e-38e9-45ff-909a-bf14115fe8b8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-0000664b61c7")
 		(sheetname "Root")
@@ -4252,6 +4434,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b4fc54da-665a-4772-83f2-9079a5e99643")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4692,6 +4887,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0056cc81-9460-4427-910f-0920a50f3e51")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/c8ac901a-7f85-40b2-88f3-10eb012af699")
 		(sheetname "Root")
@@ -4756,7 +4964,7 @@
 			)
 		)
 		(property "Value" "10n"
-			(at 0 1.16 270)
+			(at 0 1.16 -90)
 			(layer "F.Fab")
 			(uuid "62206fd3-262d-46b6-a891-5875a3b25d33")
 			(effects
@@ -4799,6 +5007,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "92419bb4-63c4-47b6-8d2f-ef21462b6c25")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4908,7 +5129,7 @@
 			(uuid "cdc2ba25-7bf8-4f4b-9e07-5e9e3d5e4b0f")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "a61d27b6-8c26-43f4-9215-3fdf2a1e9e80")
 			(effects
@@ -5009,6 +5230,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "89fe5bcb-c273-47cd-a3ab-aa104f7d2a77")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5164,7 +5398,7 @@
 		(at 120.75 77.5 180)
 		(descr "Through hole straight pin header, 1x03, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x03 2.54mm single row")
-		(property "Reference" "LED"
+		(property "Reference" "J5"
 			(at 0 -2.33 180)
 			(layer "F.SilkS")
 			(uuid "b847bc42-ae4d-487c-ae63-b390848c27cf")
@@ -5219,6 +5453,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ab849040-aadc-49e9-aef3-a68e3359fe06")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5378,7 +5625,7 @@
 			(uuid "5153f891-4bcd-45e3-ba56-475d0b03372f")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2.54 270)
+			(at 0 2.54 -90)
 			(layer "F.Fab")
 			(uuid "16438d91-2ffd-442c-8be6-d3420949befa")
 			(effects
@@ -5451,7 +5698,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 0 1.17 270)
+			(at 0 1.17 -90)
 			(layer "F.Fab")
 			(uuid "3820cf3a-3b8f-462d-927a-c6269c9db174")
 			(effects
@@ -5494,6 +5741,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9367cf9e-d95a-4641-8769-736c8fefcf8d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5614,7 +5874,7 @@
 			(uuid "b20cb14a-a228-48a4-a880-6f049a9c432d")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "d6bab1ce-7423-4126-bb90-738da894fbf1")
 			(effects
@@ -5662,19 +5922,19 @@
 		(at 125.5 72)
 		(descr "tactile push button, 6x6mm e.g. PHAP33xx series, height=4.3mm")
 		(tags "tact sw push 6mm")
-		(property "Reference" "Subminute"
-			(at 3.25 6.5 0)
+		(property "Reference" "SW4"
+			(at 7 6.5 0)
 			(layer "F.SilkS")
 			(uuid "8e06a996-81d5-4bb9-bc0a-2c451da4678c")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.8 0.8)
 					(thickness 0.15)
 				)
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 3.75 6.7 360)
+			(at 3.75 6.7 0)
 			(layer "F.Fab")
 			(uuid "72bc7e5a-9abd-4659-9273-deba43d0ac53")
 			(effects
@@ -5717,6 +5977,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6937755c-c2c7-46cd-a55b-1ceaa964aafa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5946,7 +6219,7 @@
 			(uuid "7844eb12-d1af-42bc-9481-a510126682e8")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.25 2.25 360)
+			(at 3.25 2.25 0)
 			(layer "F.Fab")
 			(uuid "615af463-3809-4dcb-b7fc-b867eec2f5bd")
 			(effects
@@ -6077,6 +6350,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "07c634ab-272f-4811-9153-8434987935f6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/41f13d12-4532-4424-8863-80630a04abda")
 		(sheetname "Root")
@@ -6188,6 +6474,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9b6f36b5-737d-4d1a-9aeb-4e35ce980889")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*")
 		(path "/4e543346-3e8b-4586-99cf-29daef7f236e")
 		(sheetname "Root")
@@ -6295,6 +6594,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3bf5d1c1-d6c3-408c-8e90-6b6acfd4a9e4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6660,6 +6972,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "67f02ce6-43d9-49f6-8d50-f817a974dfaf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00006645bc53")
 		(sheetname "Root")
@@ -6812,13 +7137,13 @@
 		(at 132 93.5 180)
 		(descr "tactile push button, 6x6mm e.g. PHAP33xx series, height=4.3mm")
 		(tags "tact sw push 6mm")
-		(property "Reference" "Hour"
-			(at 3.25 -2 180)
+		(property "Reference" "SW2"
+			(at -0.5 -2 180)
 			(layer "F.SilkS")
 			(uuid "300df8b9-54aa-496c-adbc-b3669bda91a2")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.8 0.8)
 					(thickness 0.15)
 				)
 			)
@@ -6867,6 +7192,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c7c0f040-6e45-4102-aed4-83dc4e79f66b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7226,6 +7564,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c41d222d-8af7-4d32-8818-c9e3cdca96ea")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00006646230b")
 		(sheetname "Root")
@@ -7378,19 +7729,19 @@
 		(at 125.5 80.5)
 		(descr "tactile push button, 6x6mm e.g. PHAP33xx series, height=4.3mm")
 		(tags "tact sw push 6mm")
-		(property "Reference" "Minute"
-			(at 3.25 6.5 0)
+		(property "Reference" "SW3"
+			(at 7 6.5 0)
 			(layer "F.SilkS")
 			(uuid "8934230b-bd6f-46d8-ae16-d71f2ace25e5")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.8 0.8)
 					(thickness 0.15)
 				)
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 3.75 6.7 360)
+			(at 3.75 6.7 0)
 			(layer "F.Fab")
 			(uuid "f0cbc973-51a2-48f1-8720-f4316911ad7b")
 			(effects
@@ -7433,6 +7784,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2e5d5a32-7630-4436-9894-4ee302a37479")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7662,7 +8026,7 @@
 			(uuid "3f9e9dbb-96f1-4102-9bb7-5822dd9f937c")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.25 2.25 360)
+			(at 3.25 2.25 0)
 			(layer "F.Fab")
 			(uuid "f37a9f63-b24c-4240-a320-902eae8d71f1")
 			(effects
@@ -7789,6 +8153,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5acff6c0-66a9-4d50-adc6-459cca08bb57")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8002,6 +8379,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e131d165-9b0e-469f-819b-fb63dd8d471e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/00000000-0000-0000-0000-00006645eb62")
 		(sheetname "Root")
@@ -8189,6 +8579,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b0426f71-89ec-4c8c-96e1-546791e1410e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8402,6 +8805,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eaa04fa6-8c01-468d-9e0d-d50dd0a07f4d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-000066448e84")
 		(sheetname "Root")
@@ -8554,8 +8970,8 @@
 		(at 145.46 100.25 90)
 		(descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x04 2.54mm single row")
-		(property "Reference" "I2C"
-			(at -0.75 -2.71 0)
+		(property "Reference" "J4"
+			(at 2.25 7.04 0)
 			(layer "F.SilkS")
 			(uuid "4dfe47dc-1fc9-40cb-98da-be3e48c39240")
 			(effects
@@ -8609,6 +9025,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c5c27767-b34d-43b4-a23e-ce70dcd42f3d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8898,6 +9327,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ec3d48ba-28e4-41e1-abf5-b78a16b69d97")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/00000000-0000-0000-0000-00006666fa48")
 		(sheetname "Root")
@@ -9108,6 +9550,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9bc8756b-e542-4694-839a-b2a9c262da7a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/00000000-0000-0000-0000-00006651d13b")
 		(sheetname "Root")
@@ -9260,8 +9715,8 @@
 		(at 166.08 72.25 -90)
 		(descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x04 2.54mm single row")
-		(property "Reference" "SWD"
-			(at 2.5 3.83 180)
+		(property "Reference" "J2"
+			(at 2.25 -1.42 180)
 			(layer "F.SilkS")
 			(uuid "0c0e68d9-70a8-44ed-aefd-d8fad579f801")
 			(effects
@@ -9315,6 +9770,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "620cce86-7c5d-4be5-b0ad-6caada2302a6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9604,6 +10072,19 @@
 				)
 			)
 		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ec8a9ab2-e10c-44cd-9c8b-bc234a2864bf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED*WS2812*PLCC*5.0x5.0mm*P3.2mm*")
 		(path "/733c7b62-dfe3-4790-94e9-8f607f6efe10")
 		(sheetname "Root")
@@ -9828,7 +10309,7 @@
 			)
 		)
 		(property "Value" "1k5"
-			(at 0 1.17 270)
+			(at 0 1.17 -90)
 			(layer "F.Fab")
 			(uuid "66c7de11-18a0-4e7d-9b95-528feaa2c0e4")
 			(effects
@@ -9871,6 +10352,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8d4c7bf8-3da3-46c0-a279-8537b8bd6448")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9980,7 +10474,7 @@
 			(uuid "6fc189c7-a080-4329-a99c-b7bf1785ee4c")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "67a7d497-4cd6-4027-964b-e4dec2ab97e1")
 			(effects
@@ -10038,7 +10532,7 @@
 			)
 		)
 		(property "Value" "22u"
-			(at 0 1.68 270)
+			(at 0 1.68 -90)
 			(layer "F.Fab")
 			(uuid "22224136-1e54-4298-a6b7-6423b49820e9")
 			(effects
@@ -10081,6 +10575,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f80fcec3-1459-4088-8db0-6931430b3b1e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10190,7 +10697,7 @@
 			(uuid "ad7a711e-284e-4a92-81f7-48e711387f4f")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "cd97980f-dd84-4ecd-8b98-fb30a90a5cc2")
 			(effects
@@ -10291,6 +10798,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8b1d432a-8062-415e-ad6d-5c0050dc01c8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10458,7 +10978,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 0 1.16 270)
+			(at 0 1.16 -90)
 			(layer "F.Fab")
 			(uuid "e5b95230-3d3e-4bbb-8d61-0bcace5b0377")
 			(effects
@@ -10501,6 +11021,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fc9fc1cd-c90c-4868-a9ce-7cbba1e9197c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10610,7 +11143,7 @@
 			(uuid "5a13dd38-1d7b-4846-981e-e3f9ae5ad82d")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "c80f68ac-2061-46a5-ad33-7d8da7a784ba")
 			(effects
@@ -10711,6 +11244,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b5b685b7-af4f-4d63-a492-ebe44c1ac26e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10927,7 +11473,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R8"
-			(at 0 -1.17 360)
+			(at 0 -1.17 0)
 			(layer "F.SilkS")
 			(uuid "8b324a8c-ea74-4efe-bbf3-1ada190c0764")
 			(effects
@@ -10938,7 +11484,7 @@
 			)
 		)
 		(property "Value" "1k5"
-			(at 0 1.17 360)
+			(at 0 1.17 0)
 			(layer "F.Fab")
 			(uuid "74bf2eb8-3fea-4c7b-9685-336cd7b0273a")
 			(effects
@@ -10981,6 +11527,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #（optional）" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1105cb1b-8a08-46b4-a4ff-3724a0d51bb5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11090,7 +11649,7 @@
 			(uuid "d1b06f9b-28d9-49cd-b9b7-a148181df3a9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "838d9962-f8c4-4f3d-8e55-862acc050445")
 			(effects
@@ -11214,6 +11773,57 @@
 		(layer "Edge.Cuts")
 		(uuid "fcd18c5f-1f06-441a-8bdb-14f11152bfbc")
 	)
+	(gr_text "M"
+		(at 128 87.5 0)
+		(layer "F.SilkS")
+		(uuid "22b30db5-7cd3-4bdf-9ca1-83aeb488a857")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GND CLK DIO 3v3"
+		(at 157 70.5 0)
+		(layer "F.SilkS")
+		(uuid "3cad7257-1134-4c25-90f7-579c3ebe576e")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "SM"
+		(at 126.5 79 0)
+		(layer "F.SilkS")
+		(uuid "418cba09-39e6-4907-a057-4d6dd38b9faf")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "GND RX TX 3v3"
+		(at 136.5 70.5 0)
+		(layer "F.SilkS")
+		(uuid "4d3bb820-6891-4793-9ddd-69cf019bf348")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "Markus Glau\n17.05.2024\nQCLOCK controller"
 		(at 119.5 102.25 0)
 		(layer "F.SilkS")
@@ -11222,6 +11832,57 @@
 			(font
 				(size 1 1)
 				(thickness 0.25)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "H"
+		(at 128 96 0)
+		(layer "F.SilkS")
+		(uuid "8764a0dc-6595-4f5e-b34e-fe62dcc9bee7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "3v3 SCL SDA GND"
+		(at 144 102.5 0)
+		(layer "F.SilkS")
+		(uuid "bfe9b29e-2d54-43e2-97c3-4d25bcc49e57")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "5V"
+		(at 122.5 73 0)
+		(layer "F.SilkS")
+		(uuid "f6103f39-1647-459f-b795-92e11f2b6549")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "L"
+		(at 122.5 75.5 0)
+		(layer "F.SilkS")
+		(uuid "f79005ae-ff02-41b0-b4c0-4a144e0e052d")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
 				(bold yes)
 			)
 			(justify left bottom)
