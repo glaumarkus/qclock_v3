@@ -7452,7 +7452,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPDT_PCM12"
+		(property "Footprint" "Button_Switch_SMD:SW_SPDT_CK_JS102011SAQN"
 			(at 40.64 71.12 0)
 			(effects
 				(font
@@ -7558,7 +7558,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #（optional）" ""
+		(property "JLCPCB Part #（optional）" " C25744"
 			(at 52.07 71.12 0)
 			(effects
 				(font
@@ -7820,7 +7820,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_SMD_0603-4Pin_6.0x3.5mm"
+		(property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm"
 			(at 45.72 92.71 0)
 			(effects
 				(font
@@ -8283,7 +8283,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #（optional）" ""
+		(property "JLCPCB Part #（optional）" " C879727"
 			(at 166.37 115.57 0)
 			(effects
 				(font
@@ -9701,7 +9701,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 193.04 62.23 0)
 			(effects
 				(font
@@ -9728,7 +9728,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #（optional）" ""
+		(property "JLCPCB Part #（optional）" "C2290"
 			(at 193.04 62.23 0)
 			(effects
 				(font
@@ -10240,7 +10240,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #（optional）" ""
+		(property "JLCPCB Part #（optional）" " C25744"
 			(at 60.96 139.7 0)
 			(effects
 				(font
@@ -10524,7 +10524,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #（optional）" ""
+		(property "JLCPCB Part #（optional）" " C25744"
 			(at 60.96 160.02 0)
 			(effects
 				(font
@@ -10808,7 +10808,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #（optional）" ""
+		(property "JLCPCB Part #（optional）" " C25744"
 			(at 60.96 181.61 0)
 			(effects
 				(font
@@ -11377,7 +11377,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #（optional）" ""
+		(property "JLCPCB Part #（optional）" "C2846931"
 			(at 252.73 87.63 0)
 			(effects
 				(font
@@ -11462,7 +11462,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #（optional）" ""
+		(property "JLCPCB Part #（optional）" "C2846931"
 			(at 223.52 87.63 0)
 			(effects
 				(font
