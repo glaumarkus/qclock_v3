@@ -2,4 +2,6 @@
   (version 7)
   (lib (name "sk6805-1515")(type "KiCad")(uri "/home/glaum/kicad/sk6805-1515-info/kicad_library/sk6805-1515.pretty")(options "")(descr ""))
   (lib (name "sk680515")(type "KiCad")(uri "${KIPRJMOD}/sk680515.pretty")(options "")(descr ""))
+  (lib (name "btns")(type "KiCad")(uri "${KIPRJMOD}/btns.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "/home/glaum/kicad/KiCADv6/footprints.pretty")(options "")(descr ""))
 )

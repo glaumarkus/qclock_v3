@@ -6987,7 +6987,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #（optional）" ""
+		(property "JLCPCB Part #（optional）" " C3015760"
 			(at 137.16 36.83 0)
 			(effects
 				(font
@@ -7452,7 +7452,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPDT_CK_JS102011SAQN"
+		(property "Footprint" "footprints:CUS-12TB_NDC"
 			(at 40.64 71.12 0)
 			(effects
 				(font
@@ -7479,7 +7479,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #（optional）" ""
+		(property "JLCPCB Part #（optional）" "C2921739"
 			(at 40.64 71.12 0)
 			(effects
 				(font
@@ -7847,7 +7847,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #（optional）" ""
+		(property "JLCPCB Part #（optional）" "C963553"
 			(at 45.72 92.71 0)
 			(effects
 				(font
@@ -9855,7 +9855,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
+		(property "Footprint" "btns:mybtn_smd"
 			(at 41.91 138.43 0)
 			(effects
 				(font
@@ -9882,7 +9882,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #（optional）" ""
+		(property "JLCPCB Part #（optional）" "C455109"
 			(at 41.91 133.35 0)
 			(effects
 				(font
@@ -10354,7 +10354,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
+		(property "Footprint" "btns:mybtn_smd"
 			(at 41.91 158.75 0)
 			(effects
 				(font
@@ -10381,7 +10381,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #（optional）" ""
+		(property "JLCPCB Part #（optional）" "C455109"
 			(at 41.91 153.67 0)
 			(effects
 				(font
@@ -10638,7 +10638,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
+		(property "Footprint" "btns:mybtn_smd"
 			(at 41.91 180.34 0)
 			(effects
 				(font
@@ -10665,7 +10665,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #（optional）" ""
+		(property "JLCPCB Part #（optional）" "C455109"
 			(at 41.91 175.26 0)
 			(effects
 				(font

@@ -7452,7 +7452,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_DIP_SPSTx01_Slide_6.7x4.1mm_W6.73mm_P2.54mm_LowProfile_JPin"
+		(property "Footprint" "Button_Switch_SMD:SW_SPDT_CK_JS102011SAQN"
 			(at 40.64 71.12 0)
 			(effects
 				(font
