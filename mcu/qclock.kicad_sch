@@ -8256,7 +8256,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_Micro-B_Wuerth_629105150521"
+		(property "Footprint" "footprints:CUS-12TB_NDC"
 			(at 162.56 116.84 0)
 			(effects
 				(font
@@ -8283,7 +8283,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #（optional）" " C879727"
+		(property "JLCPCB Part #（optional）" " C40943"
 			(at 166.37 115.57 0)
 			(effects
 				(font
